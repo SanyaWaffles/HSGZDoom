@@ -1,6 +1,8 @@
 # Welcome to HSGZDoom!
 
-## HSGZDoom is the GZDoom fork for Hellslinger, quickly done by SanyaWaffles.
+## HSGZDoom is the GZDoom fork for Hellslinger, quickly done by SanyaWaffles, backporting minor changes (such as the lack of the broken softpoly and disabling the software renderer)
+
+Hellslinger associated branding (c) the Hellslinger dev team
 
 Copyright (c) 1998-2022 ZDoom + GZDoom teams, and contributors
 
